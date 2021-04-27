@@ -8,6 +8,8 @@ body{
     font-family: 'Bree Serif', serif;
 }
 
+/* header */
+
 header{
     padding: 10px;
     width: 100%;
@@ -16,6 +18,8 @@ header{
     left:0;
     z-index: 9999;
 }
+
+/* navbar */
 
 nav{
     position: relative;
@@ -51,6 +55,8 @@ nav li a{
     font-size: 25px;
 }
 
+/* sections */
+
 section{
     width: 100%;
     height: 100vh;
@@ -68,6 +74,8 @@ section{
 #scarpa-3{
     background-color: #ffff00;
 }
+
+/* items */
 
 .item{
     position: absolute;
