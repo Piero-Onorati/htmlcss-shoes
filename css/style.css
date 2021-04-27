@@ -33,6 +33,11 @@ nav li{
     text-align: center;
     line-height: 50px;
     margin: 20px;
+    box-shadow: none;
+}
+
+nav li:hover{
+    box-shadow: -5px 5px 10px black;
 }
 
 nav li a{
